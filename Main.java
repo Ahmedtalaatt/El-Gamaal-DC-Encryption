@@ -2,7 +2,7 @@
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class DCElgamal
+public class Main
 {
 
     // Function to check if a number is prime
